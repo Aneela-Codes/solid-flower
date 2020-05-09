@@ -192,6 +192,9 @@ summary form{
 }
 summary form textarea{
     outline: none;
+    height:120px;
+    width:50px;
+    
 }
 summary .stars i:hover {
    color: teal;
@@ -214,10 +217,7 @@ summary form input[type="text"], input[type="email"]{
     margin-top:20px ;
     outline: none;
 }
-summary textarea{
-with:120px;
-    height:20px;
-}
+
 main{
     display: flex;
     height: 400px;
