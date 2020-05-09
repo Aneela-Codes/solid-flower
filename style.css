@@ -214,6 +214,10 @@ summary form input[type="text"], input[type="email"]{
     margin-top:20px ;
     outline: none;
 }
+summary textarea{
+with:120px;
+    height:20px;
+}
 main{
     display: flex;
     height: 400px;
