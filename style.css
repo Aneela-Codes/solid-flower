@@ -192,8 +192,8 @@ summary form{
 }
 summary form textarea{
     outline: none;
-    height:50px;
-    width:120px;
+    height:70px;
+    width:300px;
     
 }
 summary .stars i:hover {
